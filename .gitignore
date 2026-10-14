@@ -1,0 +1,7 @@
+# Large artifacts are staged locally, but should be deposited in a data archive
+# and linked from README before this directory is pushed to ordinary GitHub.
+*.pkl
+*.pt
+outputs/
+__pycache__/
+*.py[cod]
